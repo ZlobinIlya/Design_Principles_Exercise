@@ -1,4 +1,4 @@
-package com.epam.zlobin;
+package com.epam.zlobin.counting;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

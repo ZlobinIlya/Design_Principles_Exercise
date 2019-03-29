@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.epam.zlobin</groupId>
-  <artifactId>Application</artifactId>
+  <artifactId>Count</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Application</name>
+  <name>Count</name>
   <description>A simple Application.</description>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
@@ -67,7 +67,7 @@
 
               <manifest>
 
-                <mainClass>com.epam.zlobin.Application</mainClass>
+                <mainClass>com.epam.zlobin.counting.Count</mainClass>
 
               </manifest>
 
